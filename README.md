@@ -1,4 +1,4 @@
-### Ola, Meu nome é Cristhian!
+### Olá, Meu nome é Cristhian!
 
 
 - 🔭 Trabalho atualmente na parte de comunicação em uma faculdade a distancia.
